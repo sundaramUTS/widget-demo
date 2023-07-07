@@ -1,5 +1,5 @@
 {
-  "name": "@shreyu95/template-react-component-library",
+  "name": "@sundaramUTS/template-react-component-library",
   "version": "1.7.0",
   "description": "A simple template for a custom React component library",
   "scripts": {
@@ -32,6 +32,6 @@
     "rollup-plugin-terser": "^7.0.2"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/shreyu95"
+    "registry": "https://npm.pkg.github.com/sundaramUTS"
   }
 }
